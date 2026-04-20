@@ -22,4 +22,4 @@
 ---
 
 **Full certificate image above**  
-You can also download the original PDF from the file `Saymon_Professional_Competence_Udemy_ASP_Dot_NET_Core.pdf`
+You can also download the original PDF from the file `Saymon_Certificate_Udemy_ASP_Dot_NET_Core.pdf`
