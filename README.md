@@ -5,7 +5,6 @@
 - **Student:** Md. Salmanur Rahman Saymon  
 - **Date:** November 29, 2025  
 - **Instructor:** Jakub Kozera  
-- **Duration:** 14 hours  
 - **Certificate Number:** UC-b235d2c3-60db-4608-be53-7774621c473b  
 
 ![Certificate](certificate.jpg)
